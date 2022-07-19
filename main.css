@@ -180,7 +180,7 @@ width:100%
 }
 
 .side-t{
-   
+    padding-top:  220px;  
     display: none;
 }
 article {
@@ -215,7 +215,7 @@ border: 5px solid white;
 
 span
    {
-
+    color: red;
     filter: invert(100%) grayscale(100%) contrast(100);
     
    }
@@ -305,5 +305,12 @@ div.sp-open span:before {
 div.sp-open span:after {
 	transform: rotate( -45deg ) !important;
 }
+
+
+
+
+
+
+
 
 }
