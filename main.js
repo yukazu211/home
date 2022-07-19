@@ -1,6 +1,5 @@
 
 
-
 (function( $ ) {
 	
 	// function sp_open_close
